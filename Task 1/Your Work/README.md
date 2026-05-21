@@ -183,31 +183,11 @@ The Classroom Management System is a standalone web application, integrating wit
 
 ## 4. System Models
 
-> * **CONTEXT DIAGRAM**
 
-<!-- Add Context Diagram Image Here -->
-
-> * **ACTIVITY DIAGRAM**
-
-<!-- Add Activity Diagram Image Here -->
-
-> * **USE CASE DIAGRAMS**
-
-<!-- Add Use Case Diagram Images Here -->
-
-> * **SEQUENCE DIAGRAM**
-
-<!-- Add Sequence Diagram Image Here -->
 
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 
 <img src="Task 1/Your Work/images/class management system.png">
-
-> * **STATE DIAGRAM**
-
-<!-- Add State Diagram Image Here -->
-
----
 
 ## 5. System Evolution
 
