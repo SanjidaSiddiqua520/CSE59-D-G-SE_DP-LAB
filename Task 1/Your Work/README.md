@@ -201,7 +201,7 @@ The Classroom Management System is a standalone web application, integrating wit
 
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 
-<img src="">
+<img src="Task 1/Your Work/images/class management system.png">
 
 > * **STATE DIAGRAM**
 
